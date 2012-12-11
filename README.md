@@ -1,3 +1,5 @@
+Please note that this extension is outdated and may no longer work. I plan to rewrite this at some point in the future when I have the time.
+
 Brackets image size finder-outer
 ===
 This extension aids in inserting the correct width and height of an image that is sourced in an img element.
