@@ -1,4 +1,4 @@
-Please note that this extension is outdated and may no longer work. I plan to rewrite this at some point in the future when I have the time.
+Please note that this extension is outdated and may no longer work.
 
 Brackets image size finder-outer
 ===
